@@ -1,0 +1,12 @@
+<suite name="suite" thread-count="2" parallel="tests"> 
+	<listeners>
+		<listener class-name="package.name"/>
+	</listeners>
+	
+	<test name="mytest">
+		<parameter name="browser" value="chrome"/>
+		<classes>
+			<class name="packagename.filename"/>
+		</classes>
+	</test>
+</suite>

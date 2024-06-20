@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ReportScreenshots&apos; to &apos;myReport.html&apos;&#x0D;&#x0A;- Original project: &apos;Coursera&apos;&#x0D;&#x0A;- Destination element: &apos;myReport.html&apos;&#x0D;&#x0A;- Original element: &apos;ReportScreenshots&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move folder" element1="ReportScreenshots" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1718788773495" target="reports/myReport.html" units="0" version="1.0"/>
+</session>
